@@ -38,5 +38,6 @@ public class TestsClass {
         electronicsPage.goToPhonesPage();
         phonesPage.applyFilterDualSimPhones();
         dualSimFilterPage1.showFirstThreeDevices();
+
     }
 }
